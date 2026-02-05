@@ -1,5 +1,5 @@
 [project]
-name = "shenxiangzhuang-github-io"
+name = "legacy-blog"
 version = "0.1.0"
 description = "Xiangzhuang Shen's Blog"
 authors = [
